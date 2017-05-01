@@ -1067,6 +1067,8 @@ h3.succes_message {
 }
 .hover_listing li {
 	border-right:2px solid #fafafb;
+	text-align: center;
+
 }
 .hover_listing li .img {
 	display:block;
@@ -1074,6 +1076,7 @@ h3.succes_message {
 	height:100%;
 	margin-bottom:25px;
 	position:relative;
+	text-align: center;
 }
 .hover_listing li h3 {
 	line-height:normal;
@@ -1089,6 +1092,8 @@ h3.succes_message {
 	-webkit-transition: opacity 400ms ease-in-out;
 	-moz-transition: opacity 400ms ease-in-out;
 	transition: opacity 400ms ease-in-out;
+	width: 40%;
+	margin: auto;
 }
 .hover_listing li .img:hover img {
 	opacity:.1;

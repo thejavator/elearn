@@ -7,7 +7,7 @@ f5d76e
 ul.pricing-boxes li.best-plan .plan-name:after,
 .doctorSec a.ico:hover,
 .service_2_item:hover i,
-.swipe-navi .swipe-left:hover i:hover, 
+.swipe-navi .swipe-left:hover i:hover,
 .swipe-navi .swipe-right:hover i:hover,
 #filter li.selected a, #filter li a:hover,
 #site-searchform #s:focus,
@@ -31,7 +31,7 @@ ul.hover-social-icons li a,
 .doctorSec a.ico:hover i,
 .service_2_item:hover i,
 .service_3_item:hover i,
-.swipe-navi .swipe-left:hover i:hover, 
+.swipe-navi .swipe-left:hover i:hover,
 .swipe-navi .swipe-right:hover i:hover,
 .project_details .details li a:hover,
 ul.hover-social-icons li a,
@@ -74,7 +74,7 @@ ul.hover-social-icons li a:hover{
 .hover_listing li .img:hover,
 .page_head,
 .front_service:hover .icon_service i,
-.touching.medium a.hover-zoom, 
+.touching.medium a.hover-zoom,
 .touching.medium a.hover-link,
 .carousel-pagination li.active,
 .gDot,
@@ -85,7 +85,6 @@ ul.hover-social-icons li a:hover{
 .readmore,
 .blogPic .blog-hover .icon,
 #ui-lightbox-bottombar{
-	background:#f5d76e ;
 }
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus{
 	background:#f5d76e ;
