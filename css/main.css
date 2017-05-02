@@ -1279,8 +1279,12 @@ ul.pricing-boxes li.best-plan h4 {
 	font-size:15px;
 }
 ul.pricing-boxes li.best-plan:hover { box-shadow: 0px 0px 15px rgba(0,0,0,0.20) }
-ul.pricing-boxes.three li {
-    width: 33%; /*width: 313px;*/;
+ul.pricing-boxes.two li {
+    width: 50%; /*width: 313px;*/;
+}
+ul.pricing-boxes.two .first,.second {
+padding-right: 50px;
+		padding-left: 50px;
 }
 ul.pricing-boxes li.best-plan .btn-primary{
 	border-color:#d7bb58;
@@ -1414,6 +1418,9 @@ ul.pricing-boxes li.best-plan .plan-features ul {
     transition: all 0.25s ease-out;
     width: 100%!important;
     float: left;
+}
+.plan-features ul li h3{
+	margin: 10px;
 }
 .plan-features ul li i {
     margin-right: 10px;
@@ -1890,8 +1897,10 @@ ul.list li {
 	.hover_listing li .img {
 		text-align:center;
 	}
-	ul.pricing-boxes.three li {
+	ul.pricing-boxes.two li {
 		width:100%;
+		padding: 0px;
+
 	}
 	ul.pricing-boxes li.best-plan {
 		top:0;
